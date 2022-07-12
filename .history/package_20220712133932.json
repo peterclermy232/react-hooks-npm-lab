@@ -1,0 +1,12 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'HeLL"
+  },
+ 
+  "author": "",
+  "license": "ISC"
+}
